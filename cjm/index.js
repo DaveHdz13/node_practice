@@ -1,3 +1,3 @@
 // CommonJS Module
-const sum = require('./sum.js')
+const sum = require('./sum');
 console.log(sum(1, 2));

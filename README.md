@@ -21,3 +21,13 @@ This variable has a lot of common methods used by software developers like 'cons
 This design pattern allows us to separate files.
 
 We can use the functions or methods that are in other files in the file we want using **CommonJS Modules** or **ES Modules**.
+
+|**ES Modules**|**CommonJS Modules**|
+|---|---|
+|![ES_Modules](./img/ES_Modules(import).png)|![CommonJS](./img/CommonJS(import).png)|
+
+
+## Node Native
+Using **CommonJS** to import native 'os' to retrive information about our actual Operative System.
+
+![Node_native](./img/Node_native.png)
