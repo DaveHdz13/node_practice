@@ -31,3 +31,7 @@ We can use the functions or methods that are in other files in the file we want 
 Using **CommonJS** to import native 'os' to retrive information about our actual Operative System.
 
 ![Node_native](./img/Node_native.png)
+
+I also imported **'fs' (file system)** to retrive information about a specific file. This is an asyncronous task for.
+
+![Node_native](./img/reading_files(sync).png)
