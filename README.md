@@ -32,6 +32,11 @@ Using **CommonJS** to import native 'os' to retrive information about our actual
 
 ![Node_native](./img/Node_native.png)
 
-I also imported **'fs' (file system)** to retrive information about a specific file. This is an asyncronous task for.
+I also imported **'fs' (file system)** to retrive information about a specific file. This is an asyncronous task because we are using ```readFileSync```.
 
-![Node_native](./img/reading_files(sync).png)
+![Read_sync](./img/reading_files(sync).png)
+
+Now using ```readFile``` we set those file readings asyncronously.
+
+![Read_async](./img/reading_files(async).png)
+
