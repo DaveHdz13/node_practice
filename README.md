@@ -3,6 +3,8 @@ This repo is meant to be for practicing Node.js (v18.13.0).
 
 Node.js is a JavaScript runtime environment.
 
+> Using CommonJS may be not as modern as using the ES Modules but also helps understand how things works and shows us 2 ways of doing code.
+
 
 ## First logs.js
 To run the logs of the file ```logs.js``` open the **terminal** and write ```node logs.js```.
@@ -39,4 +41,9 @@ I also imported **'fs' (file system)** to retrive information about a specific f
 Now using ```readFile``` we set those file readings asyncronously.
 
 ![Read_async](./img/reading_files(async).png)
+
+## Using promises and async await
+Using CommonJS looks like this:
+
+![Promises](./img/reading_files(promises).png)
 
