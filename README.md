@@ -47,3 +47,6 @@ Using CommonJS looks like this:
 
 ![Promises](./img/reading_files(promises).png)
 
+When reading the file using async await let's use the ES Module and change the extension name from '.js' to '.mjs' and the code should look like this:
+
+![Async_await](./img/async_await(ESModules).png)
