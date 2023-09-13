@@ -47,10 +47,10 @@ Using CommonJS looks like this:
 
 ![Promises](./img/reading_files(promises).png)
 
-When reading the file using async await let's use the ES Module and change the extension name from '.js' to '.mjs' and the code should look like this:
+When reading the file using async await let's use the ES Module and change the extension name **from '.js' to '.mjs'** and the code should look like this:
 
 ![Async_await](./img/async_await(ESModules).png)
 
-And we can even use a parallel method using 'Promise' and setting the logs like a parameters after reading them first, like this:
+And we can even use a parallel method using **'Promise'** and setting the logs as parameters after reading them first, like this:
 
 ![Parallel](./img/parallel.png)
